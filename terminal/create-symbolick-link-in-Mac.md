@@ -32,6 +32,10 @@ ln -s /Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code /us
 vscode . 
 ````
 
+### 참조
+https://apple.stackexchange.com/questions/115646/how-can-i-create-a-symbolic-link-in-terminal/115647
+https://gist.github.com/bangonkali/02ba0dc50aebca627fa68ff3a7325b8e
+
 
 ## 참고
 
